@@ -1,0 +1,43 @@
+.blue {
+    color: rgb(29, 155, 240);
+}
+.button {
+    border-radius: 9999px;
+    width:100%;
+    border:none;
+    background-color:transparent;
+}
+.bird:hover {
+    background-color: rgba(29, 156, 240, 0.144);
+    
+    transition: 0.7s;
+}
+.bird {
+    border-radius: 100%;
+    width:auto;
+    border:none;
+    background-color:transparent;
+    
+}
+.icon {
+    width: 1.75rem;
+    height:1.75rem;
+
+}
+.remove-underline {
+    text-decoration: none;
+    margin-top: 10px;
+}
+.tweet {
+    border-radius: 9999px;
+    width:90%;
+    border:none;
+    background-color:rgb(29, 155, 240);
+    color: white;
+    margin-top: 20px;
+}
+.tweet:hover {
+    background-color: rgba(18, 132, 207, 0.918);
+    color: white;
+    transition: 0.7s;
+}
